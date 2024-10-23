@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/globalherigtage/static/css/main.ffdf3e6a.css",
+    "main.js": "/globalherigtage/static/js/main.df50d120.js",
+    "index.html": "/globalherigtage/index.html",
+    "main.ffdf3e6a.css.map": "/globalherigtage/static/css/main.ffdf3e6a.css.map",
+    "main.df50d120.js.map": "/globalherigtage/static/js/main.df50d120.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffdf3e6a.css",
+    "static/js/main.df50d120.js"
+  ]
+}
