@@ -1,0 +1,231 @@
+{
+  "directions": {
+    "East": [
+      {
+        "id": 1,
+        "name": "Acropolis (Greece)",
+        "img": "../img/monument/east/acropolis/arc.png",
+        "briefHistory": "The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance, the most famous being the Parthenon.",
+        "fullDescription": "The Acropolis is a UNESCO World Heritage Site and one of the most important archaeological sites in Greece. It served as the center of ancient Athenian life, religious practices, and civic activity. The Parthenon, dedicated to the goddess Athena, is its most iconic structure, representing the glory of ancient Greece and Athenian democracy.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2244.485882574569!2d23.724433315785173!3d37.97152967994017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a1bd0f1e3c7f15%3A0x5c0a5d03b9e5a7c4!2sAcropolis%20of%20Athens!5e0!3m2!1sen!2s!4v1631620431000!5m2!1sen!2s"
+      },
+      {
+        "id": 2,
+        "name": "Alhambra Palace (Spain)",
+        "img": "../img/monument/east/AlhambraPalace/ap.png",
+        "briefHistory": "The Alhambra is a palace and fortress complex located in Granada, Spain. It was originally constructed as a small fortress in 889 AD on the remains of Roman fortifications.",
+        "fullDescription": "The Alhambra is renowned for its stunning Islamic architecture and design, with beautiful courtyards, intricate carvings, and serene gardens. It served as the royal court of the Nasrid dynasty, the last Muslim rulers in Spain, before falling to the Catholic Monarchs in 1492. The palace is a symbol of the cultural exchange between the Islamic and Christian worlds in medieval Spain.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d161484.40250117126!2d-3.715335188490019!3d37.1771203085797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd71fcc7522b908d%3A0x11135d14f117a811!2sAlhambra!5e0!3m2!1sen!2s!4v1631655439000!5m2!1sen!2s"
+      },
+      {
+        "id": 3,
+        "name": "Big Ben (United Kingdom)",
+        "img": "../img/monument/east/BigBen/bp.png",
+        "briefHistory": "Big Ben is the nickname for the Great Bell of the clock at the Palace of Westminster in London, and is often extended to refer to both the clock and the clock tower.",
+        "fullDescription": "Big Ben, officially known as the Elizabeth Tower, is one of the most iconic landmarks of London. The clock tower was completed in 1859 and has become a symbol of the United Kingdom's political and cultural history. The bell weighs 13.5 tons, and the clock is famous for its reliability and precision. The name 'Big Ben' is believed to be derived from Sir Benjamin Hall, who oversaw the installation of the bell.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2481.3503726225567!2d-0.1268238842302372!3d51.50072917963473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604c330fd66ed%3A0x662a0fc00bb6c4f0!2sBig%20Ben!5e0!3m2!1sen!2s!4v1631655468983!5m2!1sen!2s"
+      },
+      {
+        "id": 4,
+        "name": "Forbidden City (China)",
+        "img": "../img/monument/east/forbiddencity/fc.png",
+        "briefHistory": "The Forbidden City was the Chinese imperial palace from the Ming dynasty to the end of the Qing dynasty, serving as the home of emperors and their households for almost 500 years.",
+        "fullDescription": "The Forbidden City, located in the heart of Beijing, China, was constructed between 1406 and 1420 and served as the imperial palace for 24 emperors during the Ming and Qing dynasties. It covers 180 acres and consists of 980 surviving buildings. This magnificent architectural masterpiece was the political and ceremonial center of Chinese government for nearly 500 years. The Forbidden City was declared a UNESCO World Heritage site in 1987 and is now a museum, attracting millions of visitors annually.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2791.961170408795!2d116.39139148260627!3d39.91634446286364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35f052b7a6464c65%3A0x829bba56cf22ae57!2sForbidden%20City!5e0!3m2!1sen!2sus!4v1631655922223!5m2!1sen!2sus"
+      },
+      {
+        "id": 5,
+        "name": "Prambanan Temple (Indonesia)",
+        "img": "../img/monument/east/PrambananTemple/pra.png",
+        "briefHistory": "Prambanan Temple is a 9th-century Hindu temple complex in Central Java, Indonesia, dedicated to the Trimurti: the three highest gods in Hinduism—Brahma, Vishnu, and Shiva.",
+        "fullDescription": "Prambanan is the largest Hindu temple complex in Indonesia, built in the 9th century. The temple complex consists of 240 temples, with the central compound hosting three main temples dedicated to the gods Brahma, Vishnu, and Shiva. The complex is renowned for its towering and pointed architecture, a masterpiece of Hindu art. Recognized as a UNESCO World Heritage Site in 1991, Prambanan is an important cultural and religious symbol in Indonesia, attracting visitors for its intricate carvings and cultural significance.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.297369726808!2d110.49055557527366!3d-7.752020495715295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5b080cf13fb5%3A0x419360c2b7b1203b!2sPrambanan%20Temple!5e0!3m2!1sen!2sid!4v1631656453342!5m2!1sen!2sid"
+      }
+    ],
+    "South": [
+      {
+        "id": 1,
+        "name": "Christchurch Cathedral (New Zealand)",
+        "img": "../img/monument/south/ChristchurchCathedral/church.png",
+        "briefHistory": "Christchurch Cathedral is an Anglican cathedral in Christchurch, New Zealand, known for its Gothic Revival architecture and its historical significance to the city.",
+        "fullDescription": "Christchurch Cathedral, located in the heart of Christchurch, New Zealand, is a symbol of the city’s European heritage and a key religious site. Built between 1864 and 1904 in the Gothic Revival style, the cathedral was heavily damaged during the 2010 and 2011 earthquakes. Its restoration has been a point of discussion and debate, as the cathedral remains a cultural and historical landmark. Plans for its reconstruction aim to preserve its original design while incorporating modern safety features.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3154.0106325300476!2d172.6332251762698!3d-43.53189577912681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d318bdbf162d3af%3A0x3c6b67c9a1978f14!2sChristchurch%20Cathedral!5e0!3m2!1sen!2snz!4v1631656789016!5m2!1sen!2snz"
+      },
+      {
+        "id": 2,
+        "name": "Moai Statues on Easter Island (Chile)",
+        "img": "../img/monument/south/MoaiStatuesonEasterIsland/phucsinh.png",
+        "briefHistory": "The Moai statues are monolithic human figures carved by the Rapa Nui people on Easter Island, Chile, between 1400 and 1650 CE.",
+        "fullDescription": "The Moai statues on Easter Island, Chile, are massive stone figures carved by the Rapa Nui people between the 14th and 17th centuries. These monolithic statues, which represent ancestral figures, are notable for their disproportionately large heads. The largest Moai is about 10 meters tall and weighs 82 tons. The statues are believed to have been symbols of power and authority, erected to honor ancestors and possibly represent a connection between the living and the dead. The exact method by which these statues were transported remains a mystery, adding to their cultural and historical intrigue.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7648.870503721284!2d-109.37068917638966!3d-27.116686179519707!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x994c0a43ad9d8039%3A0x68545d184b5e1ab7!2sMoai%20Statues!5e0!3m2!1sen!2scl!4v1631656953459!5m2!1sen!2scl"
+      },
+      {
+        "id": 3,
+        "name": "Sacsayhuaman (Peru)",
+        "img": "../img/monument/south/Sacsayhuaman/sac.png",
+        "briefHistory": "Sacsayhuaman is a fortified complex near Cusco, Peru, that was built by the Inca civilization in the 15th century.",
+        "fullDescription": "Sacsayhuaman is an impressive archaeological site located near Cusco, Peru, known for its massive stone walls made of large, precisely cut boulders that fit together without the use of mortar. Built by the Inca civilization in the 15th century, it served both military and ceremonial purposes, acting as a fortress that protected the city of Cusco. The site is renowned for its intricate engineering, with some stones weighing as much as 200 tons. The annual Inti Raymi festival, a celebration of the winter solstice, is still held here, honoring the Incan heritage.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3827.182548201827!2d-71.98552532572223!3d-13.50932088467432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x916dd64f1bfa4c1d%3A0xa0d26bdb126456dd!2sSacsayhuaman!5e0!3m2!1sen!2spe!4v1631657001262!5m2!1sen!2spe"
+      },
+      {
+        "id": 4,
+        "name": "Tikal (Guatemala)",
+        "img": "../img/monument/south/Tikal/tikal.png",
+        "briefHistory": "Tikal is an ancient Mayan city located in the rainforests of northern Guatemala, flourishing between 200 and 900 AD.",
+        "fullDescription": "Tikal is one of the largest archaeological sites and urban centers of the pre-Columbian Maya civilization. Located in the rainforests of northern Guatemala, it was a major center of Mayan culture from around 200 to 900 AD. The site is known for its towering pyramids, such as Temple I and Temple II, which dominate the skyline above the jungle canopy. Tikal was a hub of trade, politics, and military power, and its architecture reflects the advanced understanding of astronomy, art, and engineering possessed by the Mayan people. Today, it is a UNESCO World Heritage Site and a popular tourist destination.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3850.4469705468515!2d-89.62302872634861!3d17.222015739196115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f68dd51c4812b0d%3A0x6695500f2e788bb7!2sTikal!5e0!3m2!1sen!2sgt!4v1631750078132!5m2!1sen!2sgt"
+      },
+      {
+        "id": 5,
+        "name": "Valparaíso Historic Quarter (Chile)",
+        "img": "../img/monument/south/Valparaiso/val.png",
+        "briefHistory": "Valparaíso is a historic port city in Chile known for its colorful hillside neighborhoods, vibrant street art, and important role in Latin American trade during the 19th century.",
+        "fullDescription": "Valparaíso Historic Quarter, located in the port city of Valparaíso, Chile, is recognized for its unique blend of 19th-century colonial architecture, steep hillside streets, and vibrant artistic community. The city played a critical role as a major trading port before the opening of the Panama Canal, and its urban layout reflects its importance during that period. The area is famous for its brightly colored houses, winding staircases, and extensive murals that cover the buildings. In 2003, it was designated a UNESCO World Heritage Site for its cultural and historical significance. The quarter continues to attract artists, tourists, and cultural enthusiasts from around the world.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3345.1095806780574!2d-71.62631428481504!3d-33.04584558088795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9689de5c189b8671%3A0x33e139aef16764d5!2sValparaiso%20Historic%20Quarter!5e0!3m2!1sen!2scl!4v1631750981301!5m2!1sen!2scl"
+      }
+    ],
+    "North": [
+      {
+        "id": 1,
+        "name": "Eiffel Tower (France)",
+        "img": "../img/monument/north/eiffeltower/eif.png",
+        "briefHistory": "The Eiffel Tower, built in 1889, is one of the most recognizable structures in the world and an iconic symbol of France.",
+        "fullDescription": "The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in Paris, France. It was designed by engineer Gustave Eiffel and constructed as the entrance arch to the 1889 World's Fair, celebrating the centennial of the French Revolution. Standing at 330 meters tall, it was the tallest man-made structure in the world for over 40 years. The Eiffel Tower has become a global cultural icon and a major tourist attraction, with millions of visitors ascending its observation decks each year. Originally intended to be dismantled, it was preserved due to its use in telecommunications.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.9998821740036!2d2.292292515674776!3d48.85884497928725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66fdfc8fa6e5b%3A0x73d67ad6e7b0aa67!2sEiffel%20Tower!5e0!3m2!1sen!2sfr!4v1631750981302!5m2!1sen!2sfr"
+      },
+      {
+        "id": 2,
+        "name": "Hagia Sophia (Turkey)",
+        "img": "../img/monument/north/hagiasophia/hs.png",
+        "briefHistory": "Hagia Sophia, built in 537 AD, is a monumental symbol of Byzantine architecture, later converted into a mosque, museum, and now a mosque again.",
+        "fullDescription": "Hagia Sophia is one of the most significant historical monuments in Istanbul, Turkey. Initially constructed as a Christian cathedral during the reign of the Byzantine Emperor Justinian I, it served as the world's largest cathedral for nearly a thousand years. Its architectural grandeur, including its massive dome, inspired countless other religious structures. In 1453, following the Ottoman conquest of Constantinople, Hagia Sophia was converted into a mosque by Sultan Mehmed II. In 1935, it became a museum under the Turkish Republic, but in 2020, it was reconverted into a mosque. Hagia Sophia remains a UNESCO World Heritage site and a symbol of cultural and religious significance.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12093.35529271913!2d28.9794444!3d41.0085833!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab9979d08016d%3A0x4a6b0a2ba8f52427!2sHagia%20Sophia!5e0!3m2!1sen!2str!4v1631751152102!5m2!1sen!2str"
+      },
+      {
+        "id": 3,
+        "name": "Neuschwanstein Castle (Germany)",
+        "img": "../img/monument/north/neuschwansteincastle/nc.png",
+        "briefHistory": "Neuschwanstein Castle was commissioned by Ludwig II of Bavaria in the 19th century and is a stunning example of Romanesque Revival architecture.",
+        "fullDescription": "Neuschwanstein Castle, located in Bavaria, Germany, was commissioned by King Ludwig II as a tribute to Richard Wagner. Construction began in 1869, but the castle was never fully completed. Its fairy-tale appearance, with picturesque towers and stunning mountain scenery, has made it one of the most photographed monuments in the world. The castle's design draws from Romanesque architecture, incorporating elements of Gothic style. Today, Neuschwanstein is a UNESCO World Heritage site and attracts millions of visitors each year, inspiring various works of art and culture, including Disney's Sleeping Beauty Castle.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60245.09826172201!2d10.7438317360587!3d47.55757138869287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479a40134b57197f%3A0x69f4a1a3e0eaf09b!2sNeuschwanstein%20Castle!5e0!3m2!1sen!2sde!4v1631751343205!5m2!1sen!2sde"
+      },
+      {
+        "id": 4,
+        "name": "Petra (Jordan)",
+        "img": "../img/monument/north/petra/pt.png",
+        "briefHistory": "Petra is an archaeological site in Jordan, famous for its rock-cut architecture and water conduit system, and was the capital of the Nabataean Kingdom.",
+        "fullDescription": "Petra, a UNESCO World Heritage site, is an archaeological wonder located in southern Jordan. Established as early as the 5th century BC, it served as the capital of the Nabataean Kingdom, thriving on trade routes that linked Arabia, Egypt, and the Mediterranean. The site is renowned for its stunning rock-cut architecture, with intricate facades carved directly into the rose-red sandstone cliffs. Among its most famous structures is Al-Khazneh, also known as 'The Treasury.' Petra was rediscovered in the early 19th century and has since become one of the most visited tourist attractions in the world, symbolizing the ingenuity of ancient engineering and artistry.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d166200.74095666155!2d35.44424620902246!3d30.32850159702557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151c9f9d20e59b1f%3A0x40f8e20702de900c!2sPetra!5e0!3m2!1sen!2sjo!4v1631751509323!5m2!1sen!2sjo"
+      },
+      {
+        "id": 5,
+        "name": "Stonehenge (United Kingdom)",
+        "img": "../img/monument/north/Stonehenge/stone.png",
+        "briefHistory": "Stonehenge is a prehistoric monument located in Wiltshire, England, and is one of the most famous landmarks in the United Kingdom.",
+        "fullDescription": "Stonehenge is a world-renowned prehistoric monument located in Wiltshire, England. Believed to have been constructed between 3000 BC and 2000 BC, this circular arrangement of massive stones has intrigued historians, archaeologists, and tourists alike for centuries. The purpose of Stonehenge remains a mystery, with theories ranging from astronomical observatory to a burial site or a place of healing. The site is a UNESCO World Heritage site and continues to be a subject of ongoing research and exploration, drawing visitors from around the globe who seek to uncover its secrets and appreciate its monumental beauty.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d166300.14374527706!2d-1.8261877459424125!3d51.17888218955663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487204dfb4cfc1f3%3A0x401c4e60a66c6b0!2sStonehenge!5e0!3m2!1sen!2suk!4v1631751681990!5m2!1sen!2suk"
+      }
+    ],
+    "West": [
+      {
+        "id": 1,
+        "name": "Castillo de San Felipe del Morro (Puerto Rico)",
+        "img": "../img/monument/west/CastillodeSanFelipedeMorro/cast.png",
+        "briefHistory": "Castillo de San Felipe del Morro, commonly known as El Morro, is a 16th-century citadel located in San Juan, Puerto Rico.",
+        "fullDescription": "Constructed by the Spanish during the colonial period, Castillo de San Felipe del Morro is a fortress that was built to protect the city of San Juan from naval attacks. It played a significant role in the defense of Puerto Rico, especially during the Spanish-American War. The fortification features massive walls, a lighthouse, and beautiful views of the Atlantic Ocean. Today, it is a UNESCO World Heritage site and a popular tourist destination, showcasing the rich history and military architecture of the period.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.3853087805934!2d-66.11892238468195!3d18.465169387359014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8cb590491a016a67%3A0xb4b8b5356235d4f0!2sCastillo%20de%20San%20Felipe%20del%20Morro!5e0!3m2!1sen!2spr!4v1631751945834!5m2!1sen!2spr"
+      },
+      {
+        "id": 2,
+        "name": "Chichen Itza (Mexico)",
+        "img": "../img/monument/west/ChichenItza/ci.png",
+        "briefHistory": "Chichen Itza is a large pre-Columbian archaeological site located in the northern center of Mexico's Yucatán Peninsula.",
+        "fullDescription": "Chichen Itza was a major city of the Maya civilization from the 7th to the 10th century. It features a variety of architectural styles, including the famous pyramid known as El Castillo (Temple of Kukulcan), which was used for astronomical and religious purposes. The site showcases the sophistication of the Maya in areas such as astronomy, mathematics, and architecture. Today, Chichen Itza is one of the most visited tourist attractions in Mexico and is recognized as a UNESCO World Heritage site.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.5963146806556!2d-88.56812268490712!3d20.68428078613085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5671cc6ec3b3e3%3A0x9c0a4cb8e2431d59!2sChichen%20Itza!5e0!3m2!1sen!2smx!4v1631752345667!5m2!1sen!2smx"
+      },
+      {
+        "id": 3,
+        "name": "Machu Picchu (Peru)",
+        "img": "../img/monument/west/MachuPicchu/mpp.png",
+        "briefHistory": "Machu Picchu is an ancient Incan city located in the Andes mountains of Peru, built in the 15th century and later abandoned.",
+        "fullDescription": "Machu Picchu is one of the most famous archaeological sites in the world, known for its sophisticated dry-stone construction and panoramic views. It was rediscovered in 1911 by American historian Hiram Bingham and has since become a symbol of the Inca Empire. The site features agricultural terraces, temples, and the iconic Intihuatana stone, which was likely used for astronomical and religious purposes. Today, Machu Picchu is a UNESCO World Heritage site and attracts millions of visitors annually.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11612.030336148318!2d-72.54427080539123!3d-13.163141963473706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105aa5cb192f16d%3A0x287e24f60df30ef5!2sMachu%20Picchu!5e0!3m2!1sen!2spe!4v1631752482040!5m2!1sen!2spe"
+      },
+      {
+        "id": 4,
+        "name": "Statue of Liberty (United States)",
+        "img": "../img/monument/west/stateoflib/sol.png",
+        "briefHistory": "The Statue of Liberty, a gift from France to the United States, was dedicated on October 28, 1886.",
+        "fullDescription": "The Statue of Liberty, located on Liberty Island in New York Harbor, is an iconic symbol of freedom and democracy. Designed by French sculptor Frédéric Auguste Bartholdi and built by Gustave Eiffel, the statue stands 151 feet tall and was a gift from France to commemorate the centennial of American independence. It features a copper exterior that has oxidized to a green patina over time. The statue is surrounded by a pedestal and is a UNESCO World Heritage site, attracting millions of visitors each year.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.572888488638!2d-74.04579838459405!3d40.68924767933164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a17633ebd55%3A0x52d5e3873bb9cc3f!2sStatue%20of%20Liberty!5e0!3m2!1sen!2sus!4v1631752682040!5m2!1sen!2sus"
+      },
+      {
+        "id": 5,
+        "name": "Teotihuacan (Mexico)",
+        "img": "../img/monument/west/Teotihuacan/teo.png",
+        "briefHistory": "Teotihuacan, an ancient Mesoamerican city located in the Basin of Mexico, was established around 200 BCE and reached its peak in the first half of the first millennium CE.",
+        "fullDescription": "Teotihuacan, known as the 'Place Where the Gods Were Born,' is one of the most significant archaeological sites in Mexico. It features impressive structures such as the Pyramid of the Sun and the Pyramid of the Moon, along with a complex of ancient temples and palaces. The city was a major cultural and economic center, influencing many subsequent civilizations. Its grandeur and scale, with its vast layout covering over 20 square kilometers, continue to captivate visitors today. Teotihuacan was declared a UNESCO World Heritage site in 1987.",
+        "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3760.3849527523204!2d-98.84218018437685!3d19.69240238695683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2e8c0a479efb1%3A0x7243ee54812b3202!2sTeotihuacan!5e0!3m2!1sen!2sus!4v1631752816492!5m2!1sen!2sus"
+      }
+    ]
+  },
+
+  "wonders": [
+    {
+      "id": 1,
+      "name": "Great Wall of China",
+      "img": "../img/sevenwonder/GRW/grw.png",
+      "briefHistory": "The Great Wall of China is a series of fortifications built to protect Chinese states from invasions and raids. Construction began as early as the 7th century BC, with various walls built and rebuilt over centuries.",
+      "fullDescription": "The Great Wall of China is one of the most iconic structures in the world, stretching over 13,000 miles across northern China. Originally constructed to protect against invasions, the wall showcases the engineering prowess of ancient Chinese civilizations. It comprises walls, watchtowers, and fortresses, built from various materials depending on the local resources. The wall not only served a military purpose but also facilitated trade and cultural exchange along the Silk Road. In 1987, it was designated a UNESCO World Heritage site, symbolizing China's historical strength and resilience.",
+      "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224185.97022524182!2d116.5786009921315!3d40.4319071701764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35f0c1c0d9a73d57%3A0xd09294b0702bde1e!2sGreat%20Wall%20of%20China!5e0!3m2!1sen!2sus!4v1631753374536!5m2!1sen!2sus"
+    },
+    {
+      "id": 2,
+      "name": "Petra",
+      "img": "../img/sevenwonder/PT/pt.png",
+      "briefHistory": "Petra, an archaeological site in Jordan, was established as early as the 5th century BC and was a thriving trade hub. Known for its rock-cut architecture and water conduit system, it was the capital of the Nabataean Kingdom.",
+      "fullDescription": "Petra is one of the most famous archaeological sites in the world, renowned for its stunning rock-cut architecture and water management system. Established by the Nabataeans around the 6th century BC, it became a vital trade route linking the East and West. The city is famous for its rose-red sandstone cliffs and elaborate facades, including the iconic Al-Khazneh (The Treasury). Petra flourished until it was gradually abandoned after a series of earthquakes. In 1985, it was designated a UNESCO World Heritage site and remains a testament to the ingenuity of its ancient builders.",
+      "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11121.104135251763!2d35.44409340130262!3d30.3285261408031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1501c057c7d77d75%3A0x3b57ae4e5b14b5f!2sPetra!5e0!3m2!1sen!2sus!4v1631753709327!5m2!1sen!2sus"
+    },
+    {
+      "id": 3,
+      "name": "Christ the Redeemer",
+      "img": "../img/sevenwonder/CTR/ctr.png",
+      "briefHistory": "The Christ the Redeemer statue, located in Rio de Janeiro, Brazil, was completed in 1931. It stands 30 meters tall and is a symbol of Christianity across the globe.",
+      "fullDescription": "The Christ the Redeemer statue is an iconic symbol of Brazil and one of the New Seven Wonders of the World. Standing atop the Corcovado Mountain at 700 meters above sea level, the statue was completed in 1931 and is made of reinforced concrete and soapstone. It stands 30 meters tall (98 feet) with an arm span of 28 meters (92 feet). The statue represents Jesus Christ and is a prominent cultural and religious symbol for the city of Rio de Janeiro. It attracts millions of visitors each year, offering panoramic views of the city and surrounding landscapes.",
+      "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3677.5453534467985!2d-43.21106828513282!3d-22.951916345278788!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd10b6c1e4aa71b%3A0x2729f17bcf5ab837!2sChrist%20the%20Redeemer!5e0!3m2!1sen!2sbr!4v1631754271326!5m2!1sen!2sbr"
+    },
+    {
+      "id": 4,
+      "name": "Machu Picchu",
+      "img": "../img/sevenwonder/MPP/mpp.png",
+      "briefHistory": "Machu Picchu is an ancient Incan city located in the Andes Mountains of Peru. It was built in the 15th century and rediscovered in 1911 by explorer Hiram Bingham.",
+      "fullDescription": "Machu Picchu, often referred to as the 'Lost City of the Incas,' is an archaeological marvel that showcases the ingenuity of the Incan civilization. Located at an altitude of 2,430 meters (7,970 feet), it was built during the height of the Inca Empire in the 15th century and served as a royal estate or religious retreat. The site features impressive stone structures, terraces, and temples, all constructed without mortar. Rediscovered in 1911, Machu Picchu has since become a UNESCO World Heritage site and one of the most popular tourist destinations in the world, attracting visitors with its breathtaking views and rich history.",
+      "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d389240.3839326592!2d-72.57843450022854!3d-13.163141799646583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x916d7b588c96b6ef%3A0x5c2da8f3d70b8ed0!2sMachu%20Picchu!5e0!3m2!1sen!2spe!4v1631754481235!5m2!1sen!2spe"
+    },
+    {
+      "id": 5,
+      "name": "Chichen Itza",
+      "img": "../img/sevenwonder/CI/ci.png",
+      "briefHistory": "Chichen Itza is a large pre-Columbian archaeological site located in Mexico's Yucatán Peninsula. It was a major city of the Maya civilization from the 7th to the 10th century.",
+      "fullDescription": "Chichen Itza is one of the most famous and well-preserved archaeological sites of the Maya civilization. Established in the 7th century, it became a major economic and cultural center. The site features several impressive structures, including the iconic El Castillo pyramid, known for its astronomical significance and architectural brilliance. Chichen Itza is a UNESCO World Heritage site and is often considered one of the New Seven Wonders of the World, attracting millions of visitors annually.",
+      "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d378387.0073241106!2d-88.57527249997324!3d20.684283999978044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f567f28e865a7b3%3A0x3e539fa399b94a32!2sChichen%20Itza!5e0!3m2!1sen!2smx!4v1631754798928!5m2!1sen!2smx"
+    },
+    {
+      "id": 6,
+      "name": "Colosseum",
+      "img": "../img/sevenwonder/RC/rc.png",
+      "briefHistory": "The Colosseum is an ancient amphitheater located in the center of Rome, Italy. It was commissioned by Emperor Vespasian of the Flavian dynasty in AD 70-80.",
+      "fullDescription": "The Colosseum, also known as the Flavian Amphitheater, is one of the greatest works of Roman architecture and engineering. It could hold up to 80,000 spectators and was used for various public spectacles, including gladiatorial contests, animal hunts, and mock sea battles. Despite the damage caused by earthquakes and stone robbers, the Colosseum remains an iconic symbol of Imperial Rome and is a UNESCO World Heritage site.",
+      "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22489.64919835843!2d12.492230633735363!3d41.890210182840455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f60865d0c2d5d%3A0xe8659a27620e69e1!2sColosseum!5e0!3m2!1sen!2sit!4v1631755007120!5m2!1sen!2sit"
+    },
+    {
+      "id": 7,
+      "name": "Taj Mahal",
+      "img": "../img/sevenwonder/TM/tm.png",
+      "briefHistory": "The Taj Mahal is a mausoleum located in Agra, India, commissioned by Mughal Emperor Shah Jahan in memory of his favorite wife, Mumtaz Mahal.",
+      "fullDescription": "Completed in 1653, the Taj Mahal is a stunning example of Mughal architecture, combining elements of Persian, Islamic, and Indian styles. It is made from white marble inlaid with precious stones and is surrounded by beautiful gardens, reflecting pools, and other structures. The Taj Mahal is recognized as a UNESCO World Heritage site and is often considered one of the most beautiful buildings in the world.",
+      "iframeSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d211435.05890891632!2d78.03868928810515!3d27.17514429232788!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39068e0b4e66c8b9%3A0xfbc6f50454605a8e!2sTaj%20Mahal!5e0!3m2!1sen!2sin!4v1631755286102!5m2!1sen!2sin"
+    }
+  ]
+}

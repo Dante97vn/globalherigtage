@@ -1,0 +1,339 @@
+{
+  "directions": {
+    "East": [
+      {
+        "id": 1,
+        "name": "Acropolis (Greece)",
+        "img": "../img/monument/east/acropolis/arc.png",
+        "thumbnails": [
+          "../img/monument/east/acropolis/arc1.png",
+          "../img/monument/east/acropolis/arc2.png",
+          "../img/monument/east/acropolis/arc3.png",
+          "../img/monument/east/acropolis/arc4.png",
+          "../img/monument/east/acropolis/arc5.png"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Alhambra Palace (Spain)",
+        "img": "../img/monument/east/AlhambraPalace/ap.png",
+        "thumbnails": [
+          "../img/monument/east/AlhambraPalace/ap1.png",
+          "../img/monument/east/AlhambraPalace/ap2.png",
+          "../img/monument/east/AlhambraPalace/ap3.png",
+          "../img/monument/east/AlhambraPalace/ap4.png",
+          "../img/monument/east/AlhambraPalace/ap5.png"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Big Ben (United Kingdom)",
+        "img": "../img/monument/east/BigBen/bp.png",
+        "thumbnails": [
+          "../img/monument/east/BigBen/bp1.png",
+          "../img/monument/east/BigBen/bp2.png",
+          "../img/monument/east/BigBen/bp3.png",
+          "../img/monument/east/BigBen/bp4.png",
+          "../img/monument/east/BigBen/bp5.png"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Forbidden City (China)",
+        "img": "../img/monument/east/forbiddencity/fc.png",
+        "thumbnails": [
+          "../img/monument/east/forbiddencity/fc1.png",
+          "../img/monument/east/forbiddencity/fc2.png",
+          "../img/monument/east/forbiddencity/fc3.png",
+          "../img/monument/east/forbiddencity/fc4.png",
+          "../img/monument/east/forbiddencity/fc5.png"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Prambanan Temple (Indonesia)",
+        "img": "../img/monument/east/PrambananTemple/pra.png",
+        "thumbnails": [
+          "../img/monument/east/PrambananTemple/pra1.png",
+          "../img/monument/east/PrambananTemple/pra2.png",
+          "../img/monument/east/PrambananTemple/pra3.png",
+          "../img/monument/east/PrambananTemple/pra4.png",
+          "../img/monument/east/PrambananTemple/pra5.png"
+        ]
+      }
+    ],
+    "South": [
+      {
+        "id": 1,
+        "name": "Christchurch Cathedral (New Zealand)",
+        "img": "../img/monument/south/ChristchurchCathedral/church.png",
+        "thumbnails": [
+          "../img/monument/south/ChristchurchCathedral/church1.png",
+          "../img/monument/south/ChristchurchCathedral/church2.png",
+          "../img/monument/south/ChristchurchCathedral/church3.png",
+          "../img/monument/south/ChristchurchCathedral/church4.png",
+          "../img/monument/south/ChristchurchCathedral/church5.png"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Moai Statues on Easter Island (Chile)",
+        "img": "../img/monument/south/MoaiStatuesonEasterIsland/phucsinh.png",
+        "thumbnails": [
+          "../img/monument/south/MoaiStatuesonEasterIsland/phucsinh1.png",
+          "../img/monument/south/MoaiStatuesonEasterIsland/phucsinh2.png",
+          "../img/monument/south/MoaiStatuesonEasterIsland/phucsinh3.png",
+          "../img/monument/south/MoaiStatuesonEasterIsland/phucsinh4.png",
+          "../img/monument/south/MoaiStatuesonEasterIsland/phucsinh5.png"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Sacsayhuaman (Peru)",
+        "img": "../img/monument/south/Sacsayhuaman/sac.png",
+        "thumbnails": [
+          "../img/monument/south/Sacsayhuaman/sa1c.png",
+          "../img/monument/south/Sacsayhuaman/sac2.png",
+          "../img/monument/south/Sacsayhuaman/sac3.png",
+          "../img/monument/south/Sacsayhuaman/sac4.png",
+          "../img/monument/south/Sacsayhuaman/sac5.png"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Tikal (Guatemala)",
+        "img": "../img/monument/south/Tikal/tikal.png",
+        "thumbnails": [
+          "../img/monument/south/Tikal/tikal1.png",
+          "../img/monument/south/Tikal/tikal2.png",
+          "../img/monument/south/Tikal/tikal3.png",
+          "../img/monument/south/Tikal/tikal4.png",
+          "../img/monument/south/Tikal/tikal5.png"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Valparaíso Historic Quarter (Chile)",
+        "img": "../img/monument/south/Valparaiso/val.png",
+        "thumbnails": [
+          "../img/monument/south/Valparaiso/val1.png",
+          "../img/monument/south/Valparaiso/val2.png",
+          "../img/monument/south/Valparaiso/val3.png",
+          "../img/monument/south/Valparaiso/val4.png",
+          "../img/monument/south/Valparaiso/val5.png"
+        ]
+      }
+    ],
+    "North": [
+      {
+        "id": 1,
+        "name": "Eiffel Tower (France)",
+        "img": "../img/monument/north/eiffeltower/eif.png",
+        "thumbnails": [
+          "../img/monument/north/eiffeltower/eif1.png",
+          "../img/monument/north/eiffeltower/eif2.png",
+          "../img/monument/north/eiffeltower/eif3.png",
+          "../img/monument/north/eiffeltower/eif4.png",
+          "../img/monument/north/eiffeltower/eif5.png"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Hagia Sophia (Turkey)",
+        "img": "../img/monument/north/hagiasophia/hs.png",
+        "thumbnails": [
+          "../img/monument/north/hagiasophia/hs1.png",
+          "../img/monument/north/hagiasophia/hs2.png",
+          "../img/monument/north/hagiasophia/hs3.png",
+          "../img/monument/north/hagiasophia/hs4.png",
+          "../img/monument/north/hagiasophia/hs5.png"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Neuschwanstein Castle (Germany)",
+        "img": "../img/monument/north/neuschwansteincastle/nc.png",
+        "thumbnails": [
+          "../img/monument/north/neuschwansteincastle/nc1.png",
+          "../img/monument/north/neuschwansteincastle/nc2.png",
+          "../img/monument/north/neuschwansteincastle/nc3.png",
+          "../img/monument/north/neuschwansteincastle/nc4.png",
+          "../img/monument/north/neuschwansteincastle/nc5.png"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Petra (Jordan)",
+        "img": "../img/monument/north/petra/pt.png",
+        "thumbnails": [
+          "../img/monument/north/petra/pt1.png",
+          "../img/monument/north/petra/pt2.png",
+          "../img/monument/north/petra/pt3.png",
+          "../img/monument/north/petra/pt4.png",
+          "../img/monument/north/petra/pt5.png"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Stonehenge (United Kingdom)",
+        "img": "../img/monument/north/Stonehenge/stone.png",
+        "thumbnails": [
+          "../img/monument/north/Stonehenge/stone1.png",
+          "../img/monument/north/Stonehenge/stone2.png",
+          "../img/monument/north/Stonehenge/stone3.png",
+          "../img/monument/north/Stonehenge/stone4.png",
+          "../img/monument/north/Stonehenge/stone5.png"
+        ]
+      }
+    ],
+    "West": [
+      {
+        "id": 1,
+        "name": "Castillo de San Felipe del Morro (Puerto Rico)",
+        "img": "../img/monument/west/CastillodeSanFelipedeMorro/cast.png",
+        "thumbnails": [
+          "../img/monument/west/CastillodeSanFelipedeMorro/cast1.png",
+          "../img/monument/west/CastillodeSanFelipedeMorro/cast2.png",
+          "../img/monument/west/CastillodeSanFelipedeMorro/cast3.png",
+          "../img/monument/west/CastillodeSanFelipedeMorro/cast4.png",
+          "../img/monument/west/CastillodeSanFelipedeMorro/cast5.png"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Chichen Itza (Mexico)",
+        "img": "../img/monument/west/ChichenItza/ci.png",
+        "thumbnails": [
+          "../img/monument/west/ChichenItza/ci1.png",
+          "../img/monument/west/ChichenItza/ci2.png",
+          "../img/monument/west/ChichenItza/ci3.png",
+          "../img/monument/west/ChichenItza/ci4.png",
+          "../img/monument/west/ChichenItza/ci5.png"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Machu Picchu (Peru)",
+        "img": "../img/monument/west/MachuPicchu/mpp.png",
+        "thumbnails": [
+          "../img/monument/west/MachuPicchu/mpp1.png",
+          "../img/monument/west/MachuPicchu/mpp2.png",
+          "../img/monument/west/MachuPicchu/mpp3.png",
+          "../img/monument/west/MachuPicchu/mpp4.png",
+          "../img/monument/west/MachuPicchu/mpp5.png"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Statue of Liberty (United States)",
+        "img": "../img/monument/west/stateoflib/sol.png",
+        "thumbnails": [
+          "../img/monument/west/stateoflib/sol1.png",
+          "../img/monument/west/stateoflib/sol2.png",
+          "../img/monument/west/stateoflib/sol3.png",
+          "../img/monument/west/stateoflib/sol4.png",
+          "../img/monument/west/stateoflib/sol5.png"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Teotihuacan (Mexico)",
+        "img": "../img/monument/west/Teotihuacan/teo.png",
+        "thumbnails": [
+          "../img/monument/west/Teotihuacan/teo1.png",
+          "../img/monument/west/Teotihuacan/teo2.png",
+          "../img/monument/west/Teotihuacan/teo3.png",
+          "../img/monument/west/Teotihuacan/teo4.png",
+          "../img/monument/west/Teotihuacan/teo5.png"
+        ]
+      }
+    ]
+  },
+
+  "wonders": [
+    {
+      "id": 1,
+      "name": "Great Wall of China",
+      "img": "../img/sevenwonder/GRW/grw.png",
+      "thumbnails": [
+        "../img/sevenwonder/GRW/grw1.png",
+        "../img/sevenwonder/GRW/grw2.png",
+        "../img/sevenwonder/GRW/grw3.png",
+        "../img/sevenwonder/GRW/grw4.png",
+        "../img/sevenwonder/GRW/grw5.png"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Petra",
+      "img": "../img/sevenwonder/PT/pt.png",
+      "thumbnails": [
+        "../img/sevenwonder/PT/pt1.png",
+        "../img/sevenwonder/PT/pt2.png",
+        "../img/sevenwonder/PT/pt3.png",
+        "../img/sevenwonder/PT/pt4.png",
+        "../img/sevenwonder/PT/pt5.png"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Christ the Redeemer",
+      "img": "../img/sevenwonder/CTR/ctr.png",
+      "thumbnails": [
+        "../img/sevenwonder/CTR/ctr1.png",
+        "../img/sevenwonder/CTR/ctr2.png",
+        "../img/sevenwonder/CTR/ctr3.png",
+        "../img/sevenwonder/CTR/ctr4.png",
+        "../img/sevenwonder/CTR/ctr5.png"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Machu Picchu",
+      "img": "../img/sevenwonder/MPP/mpp.png",
+      "thumbnails": [
+        "../img/sevenwonder/MPP/mpp1.png",
+        "../img/sevenwonder/MPP/mpp2.png",
+        "../img/sevenwonder/MPP/mpp3.png",
+        "../img/sevenwonder/MPP/mpp4.png",
+        "../img/sevenwonder/MPP/mpp5.png"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chichen Itza",
+      "img": "../img/sevenwonder/CI/ci.png",
+      "thumbnails": [
+        "../img/sevenwonder/CI/ci1.png",
+        "../img/sevenwonder/CI/ci2.png",
+        "../img/sevenwonder/CI/ci3.png",
+        "../img/sevenwonder/CI/ci4.png",
+        "../img/sevenwonder/CI/ci5.png"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Colosseum",
+      "img": "../img/sevenwonder/RC/rc.png",
+      "thumbnails": [
+        "../img/sevenwonder/RC/rc1.png",
+        "../img/sevenwonder/RC/rc2.png",
+        "../img/sevenwonder/RC/rc3.png",
+        "../img/sevenwonder/RC/rc4.png",
+        "../img/sevenwonder/RC/rc5.png"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Taj Mahal",
+      "img": "../img/sevenwonder/TM/tm.png",
+      "thumbnails": [
+        "../img/sevenwonder/TM/tm1.png",
+        "../img/sevenwonder/TM/tm2.png",
+        "../img/sevenwonder/TM/tm3.png",
+        "../img/sevenwonder/TM/tm4.png",
+        "../img/sevenwonder/TM/tm5.png"
+      ]
+    }
+  ]
+}

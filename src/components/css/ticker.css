@@ -1,0 +1,29 @@
+/*Ticker*/
+.ticker-container {
+  background-color: #333;
+  color: #fff;
+  overflow: hidden;
+  position: relative;
+  padding: 10px 0;
+  margin: 0px;
+  white-space: nowrap;
+}
+
+.ticker {
+  display: flex;
+  animation: scroll-left 20s linear infinite;
+}
+
+.ticker-item {
+  padding: 0 10px;
+}
+
+/* Keyframes cho hiệu ứng cuộn từ phải sang trái */
+@keyframes scroll-left {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}

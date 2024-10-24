@@ -1,0 +1,15 @@
+.brandStyle {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+.carousel-item img {
+  height: 400px; /* Chiều cao tùy chỉnh cho carousel */
+}
+.fontStyleClassic {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+.height200 {
+  height: 200px;
+}
