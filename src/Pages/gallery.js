@@ -4,7 +4,7 @@ import Gallerypic from "../components/gallerypic.js";
 function Gallery() {
   return (
     <div>
-      <h1 className="text-center fontStyleClassic bg-info container">
+      <h1 className="text-center fontStyleClassic backgroundcustom2 container">
         Gallery
       </h1>
       ;

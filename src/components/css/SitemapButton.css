@@ -1,0 +1,58 @@
+.sitemap-toggle-btn {
+  position: fixed;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  z-index: 1001;
+}
+
+.lightbox-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.7); /* Mờ nền */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.lightbox-content {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 500px;
+  text-align: center;
+  position: relative;
+}
+
+.lightbox-close-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.sitemap-links {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.sitemap-links li {
+  margin: 10px 0;
+}
+
+.sitemap-links a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #333;
+}
+
+.sitemap-links a:hover {
+  color: #007bff;
+}

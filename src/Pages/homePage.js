@@ -6,21 +6,21 @@ function Home() {
   return (
     <main className="">
       <Carousel />
-      <h1 className="text-center fontStyleClassic bg-info container">
+      <h1 className="text-center fontStyleClassic backgroundcustom2 container">
         Introduction
       </h1>
-      <h4 className="container">
+      <h4 className="container backgroundcustom1 ">
         Welcome to Global Heritage: Explore the World's Historic Monuments!
       </h4>
-      <p className="container">
+      <p className="container backgroundcustom1">
         {" "}
         We are an online platform designed to help you discover and learn about
         the most iconic historical landmarks around the globe. Our mission is to
         inspire, educate, and connect people with the rich cultural and
         historical wealth of our planet.
       </p>
-      <h2 className="container">Why Global Heritage?</h2>
-      <p className="container">
+      <h2 className="container backgroundcustom1">Why Global Heritage?</h2>
+      <p className="container backgroundcustom1">
         {" "}
         The world is filled with stories hidden within each historical monument.
         From architectural wonders to culturally significant sites, we provide
@@ -28,8 +28,10 @@ function Home() {
         landmarks, making it easy for you to explore and appreciate them.
       </p>
 
-      <h2 className="container">Discover the Monuments Explore by Region:</h2>
-      <div className="container">
+      <h2 className="container backgroundcustom1">
+        Discover the Monuments Explore by Region:
+      </h2>
+      <div className="container backgroundcustom1">
         <ul>
           <li className="">
             <strong>Explore by Region: </strong>
@@ -47,12 +49,12 @@ function Home() {
           </li>
         </ul>
       </div>
-      <p className="container">
+      <p className="container backgroundcustom1">
         We hope our platform serves as a source of inspiration for those
         passionate about history and culture. Let’s embark on a journey to
         explore the beauty of global heritage together!
       </p>
-      <h1 className="text-center fontStyleClassic bg-info container">
+      <h1 className="text-center fontStyleClassic backgroundcustom2 container">
         Our Partner
       </h1>
       <img

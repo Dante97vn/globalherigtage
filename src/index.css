@@ -13,3 +13,27 @@
 .height200 {
   height: 200px;
 }
+
+.backgroundcustom1 {
+  background-color: #e0d8cd;
+}
+.backgroundcustom2 {
+  background-color: #666464;
+  color: white;
+}
+
+.btncolor {
+  background-color: #666464;
+}
+.btn.active {
+  background-color: #343a40; /* Dark background */
+  color: white;
+  border-color: #343a40;
+}
+.sitemap-button-container {
+  position: fixed; /* Giữ nút cố định trên trang */
+  top: 50%; /* Đặt nó giữa trang theo chiều dọc */
+  right: 20px; /* Đặt cách từ bên phải */
+  transform: translateY(-50%); /* Đẩy lên một nửa chiều cao của button */
+  z-index: 1000; /* Đảm bảo nút luôn hiển thị trên các phần tử khác */
+}

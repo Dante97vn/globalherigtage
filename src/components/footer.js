@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <header className="bg-secondary bg-gradient py-3 container d-flex flex-column align-items-center text-center text-white">
+    <footer className="backgroundcustom2 py-3 container d-flex flex-column align-items-center text-center text-white">
       <div className="">
         <h1>Welcome to Global Heritage</h1>
         <p>Global Heritage: Explore the World's Historic Monuments</p>
@@ -40,7 +40,7 @@ function Footer() {
       <div className="text-center pt-3">
         <p>&copy; 2024 Global Heritage-All rights reserved</p>
       </div>
-    </header>
+    </footer>
   );
 }
 export default Footer;

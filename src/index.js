@@ -19,6 +19,7 @@ import Footer from "./components/footer.js";
 import Aboutus from "./components/aboutus.js";
 import Ticker from "./components/ticker.js";
 import ScrollToTopButton from "./components/scrolluptotop.js";
+import SitemapButton from "./components/siteMapbutton.js";
 //Định nghĩa router trước khi dùng
 const router = createBrowserRouter(
   [
@@ -43,10 +44,11 @@ function Layout() {
     <div>
       <Header />
       <Ticker />
+      <SitemapButton />
+      <ScrollToTopButton />
       <Outlet />{" "}
       {/* Outlet dùng để hiển thị component tương ứng với từng route */}
       {/* Nút scroll lên đầu */}
-      <ScrollToTopButton />
       <Footer />
     </div>
   );

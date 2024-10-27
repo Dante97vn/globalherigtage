@@ -58,7 +58,7 @@ const Monumentsc = () => {
 
   if (!galleryData) {
     return (
-      <div className="text-center">
+      <div className="text-center backgroundcustom1 container">
         <div className="spinner"></div>
         <p>Loading...</p>
       </div>
@@ -66,12 +66,12 @@ const Monumentsc = () => {
   }
 
   return (
-    <section className="container mt-5">
+    <section className="container  backgroundcustom1">
       {/* Option buttons */}
       <div className="row mb-4">
         <div className="col-auto">
           <button
-            className={`btn btn-primary ${
+            className={`btn btn-secondary ${
               selectedOption === "world" ? "active" : ""
             }`}
             onClick={() => handleOptionChange("world")}
@@ -100,7 +100,7 @@ const Monumentsc = () => {
             {["East", "North", "South", "West"].map((direction) => (
               <button
                 key={direction}
-                className={`btn btn-outline-primary me-2 ${
+                className={`btn btn-outline-dark btn-light me-2 ${
                   selectedDirection === direction ? "active" : ""
                 }`}
                 onClick={() => handleDirectionChange(direction)}
@@ -110,8 +110,8 @@ const Monumentsc = () => {
             ))}
             {/* Button to show all places */}
             <button
-              className={`btn btn-outline-secondary me-2 ${
-                !selectedDirection ? "active" : ""
+              className={`btn  btn-outline-dark btn-light me-2 ${
+                !selectedDirection ? "btn-dark text-white active" : ""
               }`}
               onClick={() => handleDirectionChange("")}
             >
@@ -139,7 +139,7 @@ const Monumentsc = () => {
                         : place.briefHistory}
                     </p>
                     <button
-                      className="btn btn-primary mt-auto"
+                      className="btn btn-secondary mt-auto"
                       onClick={() => handlePlaceClick(place)}
                     >
                       Read more
@@ -152,15 +152,17 @@ const Monumentsc = () => {
 
           {selectedPlace && (
             <div ref={detailsRef} className="mt-5">
-              <h2 className="text-center bg-info">{selectedPlace.name}</h2>
-              <h3 className="text-center bg-info">Brief History</h3>
+              <h2 className="text-center backgroundcustom2">
+                {selectedPlace.name}
+              </h2>
+              <h3 className="text-center backgroundcustom2">Brief History</h3>
               <p>{selectedPlace.briefHistory}</p>
-              <h3 className="text-center bg-info">Description</h3>
+              <h3 className="text-center backgroundcustom2">Description</h3>
               <p>{selectedPlace.fullDescription}</p>
 
               {/* Display Google Map for the selected place */}
               <div className="map-container mb-4">
-                <h4 className="text-center bg-info">Location:</h4>
+                <h3 className="text-center backgroundcustom2">Location:</h3>
                 <iframe
                   src={selectedPlace.iframeSrc}
                   width="100%"
@@ -200,7 +202,7 @@ const Monumentsc = () => {
                           : wonder.briefHistory}
                       </p>
                       <button
-                        className="btn btn-primary mt-auto"
+                        className="btn btn-secondary mt-auto"
                         onClick={() => handleWonderClick(wonder)}
                       >
                         Read more
@@ -213,14 +215,16 @@ const Monumentsc = () => {
 
           {selectedWonder && (
             <div ref={detailsRef} className="mt-5 details">
-              <h2 className="text-center bg-info">{selectedWonder.name}</h2>
-              <h3 className="text-center bg-info">Brief History</h3>
+              <h2 className="text-center backgroundcustom2">
+                {selectedWonder.name}
+              </h2>
+              <h3 className="text-center  backgroundcustom2">Brief History</h3>
               <p>{selectedWonder.briefHistory}</p>
-              <h3 className="text-center bg-info">Description</h3>
+              <h3 className="text-center backgroundcustom2">Description</h3>
               <p>{selectedWonder.fullDescription}</p>
               {/* Display Google Map for the selected wonder */}
-              <div className="map-container mb-4">
-                <h4>Location:</h4>
+              <div className="map-container mb-4 backgroundcustom2 text-center">
+                <h3>Location:</h3>
                 <iframe
                   src={selectedWonder.iframeSrc}
                   width="100%"
