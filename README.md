@@ -25,7 +25,7 @@ We hope our platform serves as a source of inspiration for those passionate abou
 - Nguyen Quang Truong - Student1581406
 - Pham Hoai Nam- Student1575502
 
-## Our project demonstration video: Chưa có
+## Our project demonstration video:
 
 ## Specifications:
 
